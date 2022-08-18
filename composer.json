@@ -1,0 +1,19 @@
+{
+    "name": "pcs-indonesia/fmsbri-package",
+    "description": "Package untuk FMSBRI",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PcsIndonesia\\FmsbriPackage\\": "src/",
+            "PcsIndonesia\\FmsbriPackage\\Scripts\\": "scripts/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhammadsyazili",
+            "email": "syazili.twentyfour@gmail.com"
+        }
+    ],
+    "require": {}
+}
